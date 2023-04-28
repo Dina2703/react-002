@@ -1,4 +1,4 @@
-const Jsx = () => {
+export const Jsx = () => {
   return (
     <div>
       <h2>JSX</h2>
